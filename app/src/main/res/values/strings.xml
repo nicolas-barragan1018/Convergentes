@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMessage</string>
+    <string name="send">Enviar</string>
+    <string name="hint">Digite Texto</string>
+</resources>
